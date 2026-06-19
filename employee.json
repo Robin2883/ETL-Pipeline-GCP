@@ -1,0 +1,202 @@
+[
+  {
+    "first_name": "Courtney",
+    "last_name": "Kelly",
+    "job_title": "Communications engineer",
+    "email": "yrussell@example.com",
+    "address": "80986 Dustin Garden Suite 878\nLake Anthonyside, MN 89484",
+    "phone_number": "+1-754-822-7148x96910",
+    "salary": 98746,
+    "password": "19GmXbVi"
+  },
+  {
+    "first_name": "Joshua",
+    "last_name": "Flores",
+    "job_title": "Artist",
+    "email": "tfrancis@example.org",
+    "address": "0905 Robert Trail\nSnyderhaven, KY 34928",
+    "phone_number": "837-790-3884x886",
+    "salary": 57150,
+    "password": "mLrbXGnb"
+  },
+  {
+    "first_name": "David",
+    "last_name": "Holmes",
+    "job_title": "Technical sales engineer",
+    "email": "laurenadams@example.net",
+    "address": "56974 Angel Springs Apt. 102\nPort Glennside, MO 40466",
+    "phone_number": "325-815-5871",
+    "salary": 94728,
+    "password": "Jm3xB8z0"
+  },
+  {
+    "first_name": "Joshua",
+    "last_name": "Summers",
+    "job_title": "Engineer, civil (consulting)",
+    "email": "michele65@example.com",
+    "address": "59772 Murphy Rest Apt. 761\nZacharybury, NC 09983",
+    "phone_number": "3223319686",
+    "salary": 76591,
+    "password": "vmsUnwAc"
+  },
+  {
+    "first_name": "Stephen",
+    "last_name": "Bennett",
+    "job_title": "Education officer, environmental",
+    "email": "bford@example.com",
+    "address": "70332 Taylor Island Apt. 743\nLauraport, HI 13578",
+    "phone_number": "001-554-576-4782",
+    "salary": 27143,
+    "password": "UMWmiSk6"
+  },
+  {
+    "first_name": "Jasmin",
+    "last_name": "Mendez",
+    "job_title": "Forest/woodland manager",
+    "email": "allen09@example.com",
+    "address": "80556 Clifford Row\nCrawfordshire, NE 38520",
+    "phone_number": "865.290.9154x42670",
+    "salary": 47267,
+    "password": "kj6E3Zcf"
+  },
+  {
+    "first_name": "Susan",
+    "last_name": "Krueger",
+    "job_title": "Therapeutic radiographer",
+    "email": "bakertheresa@example.org",
+    "address": "38216 Susan Springs Apt. 887\nNatalietown, WV 24098",
+    "phone_number": "518-995-2783x5039",
+    "salary": 54054,
+    "password": "yf00Bv7O"
+  },
+  {
+    "first_name": "Alyssa",
+    "last_name": "Martin",
+    "job_title": "Secretary, company",
+    "email": "michele34@example.org",
+    "address": "47227 Bruce Burgs\nOchoashire, WI 10410",
+    "phone_number": "9212733028",
+    "salary": 76932,
+    "password": "UE9kDFyS"
+  },
+  {
+    "first_name": "Jason",
+    "last_name": "Hanna",
+    "job_title": "Editor, magazine features",
+    "email": "jenniferyoung@example.com",
+    "address": "PSC 7328, Box 0390\nAPO AP 86282",
+    "phone_number": "764.725.2327x507",
+    "salary": 53349,
+    "password": "XHg0nj0L"
+  },
+  {
+    "first_name": "Nicholas",
+    "last_name": "Butler",
+    "job_title": "Regulatory affairs officer",
+    "email": "curtisjoseph@example.net",
+    "address": "7834 Blanchard Neck\nLake Mary, LA 52160",
+    "phone_number": "(455)621-1909x643",
+    "salary": 4791,
+    "password": "AVek2qPz"
+  },
+  {
+    "first_name": "Monica",
+    "last_name": "Chambers",
+    "job_title": "Adult nurse",
+    "email": "pjones@example.org",
+    "address": "876 Dawn Rapid\nNorth Sierramouth, PW 87332",
+    "phone_number": "(806)908-1350",
+    "salary": 23702,
+    "password": "BOk40rmD"
+  },
+  {
+    "first_name": "Michael",
+    "last_name": "Hoover",
+    "job_title": "Engineer, electronics",
+    "email": "goodjason@example.org",
+    "address": "308 Bruce Square Suite 477\nMelodymouth, LA 19648",
+    "phone_number": "795-967-7219x26028",
+    "salary": 72118,
+    "password": "BG50BIAk"
+  },
+  {
+    "first_name": "Thomas",
+    "last_name": "Perry",
+    "job_title": "Horticultural therapist",
+    "email": "hedwards@example.net",
+    "address": "PSC 9026, Box 3973\nAPO AA 04246",
+    "phone_number": "5548429766",
+    "salary": 65039,
+    "password": "5ALckJpS"
+  },
+  {
+    "first_name": "Dawn",
+    "last_name": "Hall",
+    "job_title": "Chartered certified accountant",
+    "email": "smalljennifer@example.com",
+    "address": "21692 Travis Vista\nNew Melissaland, IL 72745",
+    "phone_number": "001-810-515-0660x0808",
+    "salary": 6409,
+    "password": "uy5d8eks"
+  },
+  {
+    "first_name": "Patricia",
+    "last_name": "Cummings",
+    "job_title": "Media buyer",
+    "email": "john92@example.com",
+    "address": "273 Wesley Pike\nSouth Caitlinhaven, AK 27766",
+    "phone_number": "3525568998",
+    "salary": 6167,
+    "password": "ELz00tjN"
+  },
+  {
+    "first_name": "Jessica",
+    "last_name": "Greene",
+    "job_title": "Nutritional therapist",
+    "email": "oscar13@example.com",
+    "address": "415 Clark Ramp Suite 805\nSouth Teresahaven, HI 82121",
+    "phone_number": "895-502-6603x2213",
+    "salary": 33775,
+    "password": "9jOeRJ8l"
+  },
+  {
+    "first_name": "Juan",
+    "last_name": "Booth",
+    "job_title": "Engineer, control and instrumentation",
+    "email": "kathleenschmitt@example.net",
+    "address": "3970 Sarah Island\nNorth Krista, AZ 67406",
+    "phone_number": "436-586-4842",
+    "salary": 86180,
+    "password": "c02gV6BU"
+  },
+  {
+    "first_name": "Tami",
+    "last_name": "Mercer",
+    "job_title": "Communications engineer",
+    "email": "rthomas@example.org",
+    "address": "06207 Robin Fort Suite 821\nJohnsonmouth, SC 59522",
+    "phone_number": "(547)922-4032",
+    "salary": 69854,
+    "password": "CuwysW4F"
+  },
+  {
+    "first_name": "Jacob",
+    "last_name": "Edwards",
+    "job_title": "Air broker",
+    "email": "ygallegos@example.net",
+    "address": "58514 Kathryn Branch Suite 208\nPort Kelly, UT 37297",
+    "phone_number": "001-728-969-1465x04724",
+    "salary": 72366,
+    "password": "8CqYhwYR"
+  },
+  {
+    "first_name": "Amanda",
+    "last_name": "Walker",
+    "job_title": "Press sub",
+    "email": "benjamin72@example.com",
+    "address": "7713 Amy Inlet\nPort Kevintown, OR 77085",
+    "phone_number": "001-510-496-8062",
+    "salary": 29122,
+    "password": "UvtwJDM5"
+  }
+]
